@@ -1,4 +1,14 @@
-### Hi there 👋
+Hi! I am Tiran Jayawardhana 👋
+
+### :zap: Github Stats
+
+<div align="center">
+<p>
+    <a href="https://gitstats.me/JayawardanaJTH" target="_blank"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=JayawardanaJTH&&show_icons=true&hi&theme=github_dark&count_private=true&include_all_commits=true">
+    </a>
+</p>
+
 
 <!--
 **JayawardanaJTH/JayawardanaJTH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
